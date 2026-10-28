@@ -1,0 +1,10 @@
+## .NET build output
+bin/
+obj/
+*.user
+
+## Runtime-generated files (created next to the exe, not checked in)
+debug.log
+
+## Visual Studio
+.vs/
